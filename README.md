@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dankYoff
-- 👀 I’m interested in football and Dota 2
-- 🌱 I’m currently learning LNTU
+- ⚽/🎮 I’m interested in football and Dota 2
+- 🎓 I’m currently learning LNTU
 - 💞️ I’m looking to collaborate on Valve
 - 📫 How to reach me: Discor: dankY#1157
 
