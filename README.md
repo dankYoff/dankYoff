@@ -2,7 +2,7 @@
 ### I am looking for a person who knows how to work with JS.
 ### Write me in Discord: dankY#1157
 
-### I love to do what brings me pleasure, but unfortunately I have very low knowledge of JS. No code works for me, there are constant errors, I do not understand the ###structure of the code and its execution. I simply cannot finish this project because of this.
+### I love to do what brings me pleasure, but unfortunately I have very low knowledge of JS. No code works for me, there are constant errors, I do not understand the structure of the code and its execution. I simply cannot finish this project because of this.
 
 ###  ⚽ Love to watch a football
 ###  🎓 Study in LNTU
